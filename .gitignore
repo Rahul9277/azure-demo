@@ -1,0 +1,5 @@
+#
+# Excludes
+.idea/*
+target/
+
